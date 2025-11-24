@@ -20,3 +20,4 @@ cd ~/.dotfiles
 
 MIT
 
+# Test sync
